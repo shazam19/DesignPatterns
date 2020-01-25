@@ -11,7 +11,7 @@ namespace Design.DecoratorPattern.Client
             ICar car = new Honda();
             PrintCarPrice(car);
 
-            car = new MoonRoof(car);
+            car = new SunRoof(car);
             PrintCarPrice(car);
 
             car = new ConvertToCng(car);

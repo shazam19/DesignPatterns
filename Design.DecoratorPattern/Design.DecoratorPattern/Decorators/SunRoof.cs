@@ -2,9 +2,9 @@
 
 namespace Design.DecoratorPattern.Decorators
 {
-    public class MoonRoof : CarDecorator
+    public class SunRoof : CarDecorator
     {
-        public MoonRoof(ICar car): base(car)
+        public SunRoof(ICar car): base(car)
         {
 
         }
