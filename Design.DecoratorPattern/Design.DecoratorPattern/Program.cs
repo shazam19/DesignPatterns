@@ -1,5 +1,4 @@
-﻿using DesignPattern.DecoratorPattern.Client;
-using System;
+﻿using Design.DecoratorPattern.Client;
 
 namespace Design.DecoratorPattern
 {

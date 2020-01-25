@@ -1,4 +1,4 @@
-﻿namespace DesignPattern.DecoratorPattern.Model
+﻿namespace Design.DecoratorPattern.Components
 {
     public interface ICar
     {

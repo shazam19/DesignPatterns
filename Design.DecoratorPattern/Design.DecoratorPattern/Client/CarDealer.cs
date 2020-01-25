@@ -1,12 +1,8 @@
-﻿using DesignPattern.DecoratorPattern.Model;
-using DesignPattern.DecoratorPattern.ModelDecorator;
+﻿using Design.DecoratorPattern.Components;
+using Design.DecoratorPattern.Decorators;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace DesignPattern.DecoratorPattern.Client
+namespace Design.DecoratorPattern.Client
 {
     class CarDealer
     {

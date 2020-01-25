@@ -1,11 +1,6 @@
-﻿using DesignPattern.DecoratorPattern.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Design.DecoratorPattern.Components;
 
-namespace DesignPattern.DecoratorPattern.ModelDecorator
+namespace Design.DecoratorPattern.Decorators
 {
     public class MoonRoof : CarDecorator
     {
